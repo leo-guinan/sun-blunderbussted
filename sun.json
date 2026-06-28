@@ -1,0 +1,382 @@
+{
+  "id": "sun-blunderbussted",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@blunderbussted Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_4eeb3cbc305f",
+    "display_name": "blunderbussted",
+    "user_id": "@blunderbussted",
+    "description": "Community Archive-derived proof-of-search sun for @blunderbussted.",
+    "document_count": 52330,
+    "word_count": 1108046,
+    "active_days": 1956,
+    "emissions": [
+      "Good",
+      "Time",
+      "Don",
+      "Know",
+      "Love",
+      "Think"
+    ],
+    "generated_at": "2026-06-28T21:41:56.188567+00:00",
+    "color": "#f59e0b",
+    "mass": 13.918
+  },
+  "planets": [
+    {
+      "id": "planet_b13aa36250f9",
+      "name": "Good",
+      "summary": "Archive cluster around good: 44475 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "lol",
+        "too",
+        "man",
+        "life"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5b3fd0542724",
+          "title": "Good receipt from 2023-11-30",
+          "excerpt": "still one of my favorite greentexts https://t.co/ueu7DqIx1U",
+          "source_document_id": "1730253169878503665",
+          "timestamp": "2023-11-30T15:51:16+00:00",
+          "url": "https://x.com/blunderbussted/status/1730253169878503665",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, lol, too, man."
+        },
+        {
+          "id": "art_f7ebf5bc8d82",
+          "title": "Good receipt from 2023-12-12",
+          "excerpt": "girl i went on a date with who didn't respond to my message after for two months just messaged me basically a \"heyyy\" and i suddenly understand women better",
+          "source_document_id": "1734463512976728358",
+          "timestamp": "2023-12-12T06:41:40+00:00",
+          "url": "https://x.com/blunderbussted/status/1734463512976728358",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, lol, too, man."
+        },
+        {
+          "id": "art_b145df138ab6",
+          "title": "Good receipt from 2023-11-13",
+          "excerpt": "@visualbasic97 @SCHIZO_FREQ go home and make facebook accounts for both of them",
+          "source_document_id": "1724101402228908147",
+          "timestamp": "2023-11-13T16:26:21+00:00",
+          "url": "https://x.com/blunderbussted/status/1724101402228908147",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, lol, too, man."
+        },
+        {
+          "id": "art_ce60c8222a6e",
+          "title": "Good receipt from 2024-04-04",
+          "excerpt": "@ThanksThoth Honestly you're saying it worked here.",
+          "source_document_id": "1776029641012039693",
+          "timestamp": "2024-04-04T23:30:38+00:00",
+          "url": "https://x.com/blunderbussted/status/1776029641012039693",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, lol, too, man."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_99e64d20460e",
+      "proof_score": 1,
+      "mass": 40.961,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_d10bb8e5278f",
+      "name": "Time",
+      "summary": "Archive cluster around time: 2114 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "every",
+        "first",
+        "over",
+        "life"
+      ],
+      "artifacts": [
+        {
+          "id": "art_4091a1ac40c3",
+          "title": "Time receipt from 2024-08-25",
+          "excerpt": "my ex is from nyc. she would travel with me.\n\nwalking around madrid or montreal or malta or w/e she would point at fashion/cultural trends (restaurant menus/design, etc) &amp; say \"NYC 3 years ago, 7 years ago\"\n\ntoday i logged on threads for the first time &amp; had my version of that.",
+          "source_document_id": "1827783126338195544",
+          "timestamp": "2024-08-25T19:00:30+00:00",
+          "url": "https://x.com/blunderbussted/status/1827783126338195544",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, over."
+        },
+        {
+          "id": "art_4b707116c8bb",
+          "title": "Time receipt from 2023-08-02",
+          "excerpt": "for a year of my life i traveled across the country to see a woman.\n\ni was about 25. we'd met online. the first time we saw each other, she flew me out. that's when things really started.\n\nas i was very poor, i started to take a bus to see her once every two or three months.",
+          "source_document_id": "1686695171218415616",
+          "timestamp": "2023-08-02T11:07:20+00:00",
+          "url": "https://x.com/blunderbussted/status/1686695171218415616",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, over."
+        },
+        {
+          "id": "art_ea6b351b3139",
+          "title": "Time receipt from 2023-12-26",
+          "excerpt": "@SurrealistShip once upon a time\n\nat a family thanksgiving\n\none sibling was just terrorizing his younger brother\n\nthe older sibling was evidently the better one at videogames\n\nhe was a bit of a spoiled child as a result of a divorce. the parents bid for attention, and the mother would let the…",
+          "source_document_id": "1739503459504918563",
+          "timestamp": "2023-12-26T04:28:37+00:00",
+          "url": "https://x.com/blunderbussted/status/1739503459504918563",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, over."
+        },
+        {
+          "id": "art_6ea86ed6084d",
+          "title": "Time receipt from 2023-07-27",
+          "excerpt": "because there seems to be interest lately, an old essay about my 15 years of prescription and the fallout:\n\nIDENTITY UNDER ADDERALL\n\nI took psychoactive drugs, mostly prescription amphetamines, from about the time I came into memory, age 8, to the point of near-total mental and…",
+          "source_document_id": "1684365152999575553",
+          "timestamp": "2023-07-27T00:48:41+00:00",
+          "url": "https://x.com/blunderbussted/status/1684365152999575553",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, over."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_7a43b62016cb",
+      "proof_score": 1,
+      "mass": 34.05,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_bc329e781800",
+      "name": "Don",
+      "summary": "Archive cluster around don: 1750 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "want",
+        "think",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_c538f5777b37",
+          "title": "Don receipt from 2024-11-02",
+          "excerpt": "you ever show a girl basic human decency &amp; she's enamored by you so it kind of freaks you out because it's a clear indicator she's been treated like shit and is used to it and you really don't have all that much in common but you don't want to damage her too bad via rejection",
+          "source_document_id": "1852838754370871744",
+          "timestamp": "2024-11-02T22:22:37+00:00",
+          "url": "https://x.com/blunderbussted/status/1852838754370871744",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, think."
+        },
+        {
+          "id": "art_46f3017d8412",
+          "title": "Don receipt from 2024-10-26",
+          "excerpt": "oh the feminists were right i don't need therapy i need a warzone https://t.co/u6ZPIlv2Ag",
+          "source_document_id": "1850188467319275530",
+          "timestamp": "2024-10-26T14:51:20+00:00",
+          "url": "https://x.com/blunderbussted/status/1850188467319275530",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, think."
+        },
+        {
+          "id": "art_c6f8aacc81e8",
+          "title": "Don receipt from 2023-12-12",
+          "excerpt": "lol i don't know that i need to clarify but i was dating several people and this wasn't particularly meaningful to me and i've since ceased dating anyone i was dating and i'm neither here nor there about it\n\na lot of you are reading a lot into a simple post",
+          "source_document_id": "1734649292290490568",
+          "timestamp": "2023-12-12T18:59:54+00:00",
+          "url": "https://x.com/blunderbussted/status/1734649292290490568",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, think."
+        },
+        {
+          "id": "art_59fb218db9dc",
+          "title": "Don receipt from 2023-11-25",
+          "excerpt": "“oh i’ll never get a gf because i don’t make enough and i’m short and my job is bad and no abs and i’m not trad enough and the libs are out to get me and”\n\nhave you tried just being better, have you tried being a better person anon, have you???",
+          "source_document_id": "1728445198831878222",
+          "timestamp": "2023-11-25T16:07:03+00:00",
+          "url": "https://x.com/blunderbussted/status/1728445198831878222",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, think."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_dd7b50cfe644",
+      "proof_score": 1,
+      "mass": 32.947,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_ce3b3bb5f0aa",
+      "name": "Know",
+      "summary": "Archive cluster around know: 1298 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "know",
+        "love",
+        "let",
+        "want",
+        "never"
+      ],
+      "artifacts": [
+        {
+          "id": "art_fa634a1833e4",
+          "title": "Know receipt from 2023-06-19",
+          "excerpt": "the strongest, smartest, most capable people you know all probably need your understanding and friendship more deeply than you realize",
+          "source_document_id": "1670787716777164800",
+          "timestamp": "2023-06-19T13:36:48+00:00",
+          "url": "https://x.com/blunderbussted/status/1670787716777164800",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, love, let, want."
+        },
+        {
+          "id": "art_8c9cf0c11607",
+          "title": "Know receipt from 2024-08-01",
+          "excerpt": "i must know her touch i want her to put a saddle on me and spur me forward squeezing my torso between her thighs i must climb her legs like tree trunks i must build a nest there and covet her eggs i must grab those thighs over and over and over again i must know this athena https://t.co/3XlCR737ZR",
+          "source_document_id": "1819151211591094749",
+          "timestamp": "2024-08-01T23:20:21+00:00",
+          "url": "https://x.com/blunderbussted/status/1819151211591094749",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, love, let, want."
+        },
+        {
+          "id": "art_26b04b4c9441",
+          "title": "Know receipt from 2021-02-09",
+          "excerpt": "what is the angriest, heaviest song you know",
+          "source_document_id": "1358946859079913474",
+          "timestamp": "2021-02-09T01:12:33+00:00",
+          "url": "https://x.com/blunderbussted/status/1358946859079913474",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, love, let, want."
+        },
+        {
+          "id": "art_752f52e87a80",
+          "title": "Know receipt from 2024-01-31",
+          "excerpt": "\"Hey dad.\"\n\"Hey son. Did you see my post on my ejaculate volume this morning?\"\n\"Yeah dad, your volume is really improving.\"\n\"Yeah maybe I'll inject your cock with botox later, it's really helped my erections.\"\n\"Wow dad thanks you're the best.\"\n\"I know son.\"\n*Sips child's blood* https://t.co/Br76JTztiJ",
+          "source_document_id": "1752760221423042956",
+          "timestamp": "2024-01-31T18:26:16+00:00",
+          "url": "https://x.com/blunderbussted/status/1752760221423042956",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, love, let, want."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9a58108017c6",
+      "proof_score": 1,
+      "mass": 31.676,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_a7d9773e850b",
+      "name": "Love",
+      "summary": "Archive cluster around love: 1487 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "love",
+        "fucking",
+        "life",
+        "god",
+        "too"
+      ],
+      "artifacts": [
+        {
+          "id": "art_0c8728717224",
+          "title": "Love receipt from 2024-08-23",
+          "excerpt": "&gt;swiping through dating app\n&gt;left, left, left\n&gt;pause\n&gt;she's cute\n&gt;hobbies: gym, integrating myself, becoming better every day\n&gt;job: high level corporate, volunteers on weekends\n&gt;love friends &amp; family, looking to grow with someone\n&gt;she seems wholesome &amp; stable\n&gt;...\n&gt;swipe left",
+          "source_document_id": "1826994009299972258",
+          "timestamp": "2024-08-23T14:44:50+00:00",
+          "url": "https://x.com/blunderbussted/status/1826994009299972258",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, fucking, life, god."
+        },
+        {
+          "id": "art_87d290a0d420",
+          "title": "Love receipt from 2024-08-25",
+          "excerpt": "what if the author of live laugh love pillows wrote self help books in the style of tweets https://t.co/wrs7Y9qSnw",
+          "source_document_id": "1827784699793576140",
+          "timestamp": "2024-08-25T19:06:45+00:00",
+          "url": "https://x.com/blunderbussted/status/1827784699793576140",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, fucking, life, god."
+        },
+        {
+          "id": "art_32acd82b8fb6",
+          "title": "Love receipt from 2021-06-24",
+          "excerpt": "Not a single one of you is safe. No one you love is safe. We’re all sinners in the hands of an angry state. May god have mercy on your souls, because no man or system of man will even recognize you have one.",
+          "source_document_id": "1407912147884072963",
+          "timestamp": "2021-06-24T04:03:08+00:00",
+          "url": "https://x.com/blunderbussted/status/1407912147884072963",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, fucking, life, god."
+        },
+        {
+          "id": "art_5428ccf2ac64",
+          "title": "Love receipt from 2024-07-10",
+          "excerpt": "i've blocked my ex on our most-shared platform and etc but i still love her but not like that but i need her to do well but i literally can't talk to her because we literally can't talk anymore but i'd love to hear about her from 3rd parties but i cannot talk to her it's so over",
+          "source_document_id": "1810929845397864887",
+          "timestamp": "2024-07-10T06:51:35+00:00",
+          "url": "https://x.com/blunderbussted/status/1810929845397864887",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, fucking, life, god."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_984587c8a176",
+      "proof_score": 1,
+      "mass": 31.691,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_551a5f12f183",
+      "name": "Think",
+      "summary": "Archive cluster around think: 1206 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "something",
+        "want",
+        "need",
+        "now"
+      ],
+      "artifacts": [
+        {
+          "id": "art_ccf0e1b95fb9",
+          "title": "Think receipt from 2023-12-12",
+          "excerpt": "@scrmshw i reckon i understand her motives given she messaged me at midnight and i think i'm just gonna let sleeping dogs lie",
+          "source_document_id": "1734464283151581608",
+          "timestamp": "2023-12-12T06:44:44+00:00",
+          "url": "https://x.com/blunderbussted/status/1734464283151581608",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, want, need."
+        },
+        {
+          "id": "art_3a765981bb6c",
+          "title": "Think receipt from 2023-12-28",
+          "excerpt": "you think llms are racist now just wait until they can only be trained on works from 1928 and earlier",
+          "source_document_id": "1740192870005658085",
+          "timestamp": "2023-12-28T02:08:06+00:00",
+          "url": "https://x.com/blunderbussted/status/1740192870005658085",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, want, need."
+        },
+        {
+          "id": "art_777b270699b5",
+          "title": "Think receipt from 2023-02-14",
+          "excerpt": "okay i think total sobriety, daily sun, 7 hours sleep min, &amp; exercise at least 4 days a week is mandatory for high mental function for me because i am a sensitive machine a pretty flower a beautiful rose and i demand to be well-oiled-well-greased-well-kept or i will literally die",
+          "source_document_id": "1625453519879675907",
+          "timestamp": "2023-02-14T11:14:53+00:00",
+          "url": "https://x.com/blunderbussted/status/1625453519879675907",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, want, need."
+        },
+        {
+          "id": "art_439d0fe90e19",
+          "title": "Think receipt from 2023-08-02",
+          "excerpt": "The drive between East Tennessee and Western North Carolina is one of the most beautiful I think there is.\n\nYou watch the mountains begin. Ugly middle Tennessee starts to give way to this wetland, these gorgeous forests that raise into rolling hills.\n\nYou enter the Smokies.",
+          "source_document_id": "1686699931954757632",
+          "timestamp": "2023-08-02T11:26:15+00:00",
+          "url": "https://x.com/blunderbussted/status/1686699931954757632",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, want, need."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_669e328cfdb0",
+      "proof_score": 1,
+      "mass": 31.524,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
